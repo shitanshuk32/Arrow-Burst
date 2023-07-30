@@ -36,7 +36,4 @@ Contributions are welcome! If you have any ideas, improvements, or bug fixes, fe
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Credits
-
-The project was inspired by [source-of-inspiration](link-to-source).
 

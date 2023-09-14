@@ -1,4 +1,4 @@
-# Bubbles App using Canvas
+# Arrow Burst using Canvas
 
 <img width="587" alt="Screenshot 2023-07-22 195150" src="https://github.com/shitanshuk32/Bubbles-App/assets/86796224/007cd4e2-2b22-4400-899f-6aeeda46f061">
 
